@@ -2,6 +2,7 @@ const card = document.querySelector('.card')
 const container = document.querySelector('.container')
 
 const title = document.querySelector('.title')
+const sneaker = document.querySelector('.sneaker')
 
 container.addEventListener('mousemove', e => {
   let xAxis = (window.innerWidth / 2 - e.pageX) / 25
