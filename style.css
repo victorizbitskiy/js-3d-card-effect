@@ -110,4 +110,5 @@ button.active {
   cursor: pointer;
   border-radius: 30px;
   font-weight: bolder;
+  transition: all 0.75s ease-out;
 }
