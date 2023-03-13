@@ -96,6 +96,7 @@ button.active {
 }
 
 .purchase {
+  transform-style: preserve-3d;
   margin-top: 5rem;
   transition: all 0.75s ease-out;
 }
